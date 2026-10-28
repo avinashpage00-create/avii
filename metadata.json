@@ -1,0 +1,9 @@
+{
+  "name": "DILMILENGE - Indian Dating & Friendship",
+  "description": "DILMILENGE (दिल मिलेंगे) - Modern dating and friendship app for adults aged 18+ in India. Discover singles, match, chat, and make 1-on-1 video calls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
